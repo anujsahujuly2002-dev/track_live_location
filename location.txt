@@ -1,0 +1,12 @@
+latitude:26.8680395
+longtitude:81.006573
+ Ip:27.58.145.233
+ User Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+latitude:26.8676686
+longtitude:81.0101692
+ Ip:27.58.145.233
+ User Agent:Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+latitude:26.8676681
+longtitude:81.010169
+ Ip:27.58.145.233
+ User Agent:Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
